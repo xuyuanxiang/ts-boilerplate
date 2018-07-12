@@ -3,5 +3,5 @@ yarn global add degit
 ```
 
 ```npm
-degit xuyuanxiang/ts-boilerplate my-project
+degit xuyuanxiang/ts-starter my-project
 ```
