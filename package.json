@@ -83,7 +83,7 @@
     "collectCoverageFrom": [
       "src/**/*.{ts,tsx}",
       "!src/**/*.spec.{ts,tsx}",
-      "!src/*/style/*.d.ts"
+      "!src/**/*.d.ts"
     ],
     "reporters": [
       "default",
